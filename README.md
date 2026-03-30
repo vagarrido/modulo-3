@@ -1,1 +1,3 @@
 # modulo-3
+Lo más fácil para mí fue escribir las instrucciones básicas de impresión con  y declarar variables, porque son conceptos directos y me dieron confianza al ver resultados inmediatos en pantalla. También sumar dos números fue sencillo, ya que es una operación que se entiende rápido y me permitió comprobar cómo funciona la lógica en Python.
+Lo más desafiante, en cambio, fue trabajar con la entrada de datos por teclado y el uso del módulo . Aunque no es complicado, tuve que pensar en cómo convertir los valores ingresados por el usuario a números ( o ) para que el programa no fallara. Además, usar  me mostró que Python tiene librerías muy útiles, pero que debo aprender a importarlas y aplicarlas correctamente.
